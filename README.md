@@ -1,4 +1,6 @@
 # PlayGround-for-iOS
+
+[![Join the chat at https://gitter.im/Jeffchiucp/PlayGround-for-iOS](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Jeffchiucp/PlayGround-for-iOS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Swift PlayGround
 /*
 * Copyright (c) 2014 Razeware LLC
